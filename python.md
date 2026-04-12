@@ -320,7 +320,7 @@ While loop: A loop that instructs the computer to continuously execute the code 
   - shape: Checks the dimensions/shape of an array.
   - ndim: Checks the number of dimensions.
   - dtype: Checks the data type of the contents within an array.
-
+** 
 
 
 
